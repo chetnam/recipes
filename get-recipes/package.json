@@ -1,0 +1,13 @@
+{
+  "name": "get-recipes",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "sequelize": "^4.39.1",
+    "tedious": "^2.6.4"
+  },
+  "devDependencies": {}
+}
