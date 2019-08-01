@@ -1,6 +1,6 @@
 **Intro**
 
-Cooking is fun, and websites that share recipes are great. Detailed stories are fantastic, but maybe not when you're scrolling to get to the recipe.
+Cooking is fun, and websites that share recipes are great. Detailed stories are fantastic, but maybe not if you have to scroll a mile to get to the actual recipe.
 
 Here's a list of recipe-sharing websites ranked by how many words are used _before_ you can get to the recipe: <https://api-get-recipes.azurewebsites.net/api/sources>.
 
