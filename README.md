@@ -10,7 +10,7 @@ Check out API Details below to see what other data this project has collected.
 
 This project collects information about recipes from various recipe-sharing websites, stores this information, and provides access to this information through an API. There are two main components of this project, currently deployed through Microsoft Azure Functions:
 
-- scrape-recipes: Scripts that collects inormation about recipes from sources via web-scraping and store in database; runs once a day; written in Python
+- scrape-recipes: Scripts that collects information about recipes from sources via web-scraping and stores in a database; runs once a day; written in Python
 - get-recipes: Provides endpoints to access different types of information from the data collected; written in NodeJS
 ***
 **API Details**
